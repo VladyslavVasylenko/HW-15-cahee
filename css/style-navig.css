@@ -92,7 +92,7 @@
     margin: 30px auto 0;
   }
   
-  #menu-toggle:checked ~ .content-container {
+  .menu-toggle:checked ~ .content-container {
     padding-left: 0;
   }
   
@@ -106,11 +106,11 @@
     left: 30px
   }
   
-  #menu-toggle:checked ~ .slideout-sidebar {
+  .menu-toggle:checked ~ .slideout-sidebar {
     width: 55%;
   }
   
-  #menu-toggle:checked + .menu-icon {
+  .menu-toggle:checked + .menu-icon {
     left: 47%;
     color: #fafafa;
   }
@@ -134,7 +134,5 @@
         padding: 18px 24px;
         margin: 0 6px 12px;
       }
-
-  }
-  
+  } 
 }
