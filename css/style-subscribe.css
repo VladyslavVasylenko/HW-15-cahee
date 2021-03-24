@@ -12,10 +12,9 @@
 }
 
 .subscribe__title { 
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 40px;
   font-weight: bold;
-  line-height: 0.68;
   text-align: left;
   color: #262626;
   margin-bottom: 34px;
@@ -24,20 +23,18 @@
 .subscribe__text { 
   width: 541px;
   height: 43px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 17px;
   font-weight: 300;
-  line-height: 1.59;
   text-align: left;
   color: #262626;
   margin-bottom: 31px;
 }
 
 .subscribe-form { 
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 15px;
   font-weight: 300;
-  line-height: 1.8;
   color: rgba(38, 38, 38, 0.5);
 }
 
@@ -55,10 +52,10 @@
   height: 55px;
   padding: 10px 30px;
   background-color: #96b92c;
-  font-family:" Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 20px;
   font-weight: 300;
-  line-height: 1.35;
+
   color: #ffffff;
   border: 0;
 }
@@ -87,7 +84,6 @@
 
 @media screen and (max-width:970px){
   .subscribe-form__form{
-    display: flex;
     flex-direction: column;
   }
 

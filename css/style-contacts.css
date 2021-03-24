@@ -16,7 +16,7 @@
 
 .contacts-header__title { 
   color: #262626;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 90px;
   font-weight: 700;
   line-height: 25px;
@@ -26,10 +26,9 @@
 .contacts-header__text { 
   width: 350px;
   color: #262626;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 17px;
   font-weight: 300;
-  line-height: 25px;
   text-align: center;
   margin: 68px auto;
 }
@@ -86,10 +85,8 @@
 }
 
 .main-form label input::placeholder{
-  font-family: "Raleway", sans-serif;;
+  font-family: 'Raleway', sans-serif;
   font-size: 15px;
-  font-style: normal;
-  letter-spacing: normal;
   line-height: 25px;
   color: #ffffff;
 }
@@ -126,58 +123,48 @@
   font-weight: 700;
 }
 
-/*Contacts*/
-/*.main-contacts { 
-}*/
-
 .main-contacts__address {
   color: #262626;
   font-size: 20px;
-  line-height: 25px;
   text-align: left;
-  font-family: "Raleway - Bold", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
 
 .main-contacts__line-address { 
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 17px;
   font-weight: 300;
-  line-height: 25px;
   margin-bottom: 15px;
 }
 
 .main-contacts__email { 
   color: #262626;
   font-size: 20px;
-  line-height: 25px;
   text-align: left;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
 
 .main-contacts__line-email { 
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 17px;
   font-weight: 300;
-  line-height: 25px;
   margin-bottom: 15px;
 }
 
 .main-contacts__phone { 
   color: #262626;
   font-size: 20px;
-  line-height: 25px;
   text-align: left;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
 
 .main-contacts__line-phone { 
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 17px;
   font-weight: 300;
-  line-height: 25px;
 }
 
 /*footer*/
@@ -191,33 +178,30 @@
 
 .footer__subtext-first { 
   color: #b9b9b9;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 16px;
   font-weight: 300;
-  line-height: 25px;
 }
 
 .footer__logo { 
   color: #b9b9b9;
-  font-family: "Pacifico", cursive;
+  font-family: 'Pacifico', cursive;
   font-size: 25px;
   font-weight: 400;
-  line-height: 25px;
   text-align: right;
 }
 
 .footer__subtext-second{ 
   color: #b9b9b9;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 15px;
   font-weight: 300;
-  line-height: 25px;
   text-align: left;
 }
 
 .red{
   color: #ff2b58;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
 
@@ -237,7 +221,6 @@
   }
 
   .main{
-    display: flex;
     flex-direction: column;
     align-items: center;
   }
