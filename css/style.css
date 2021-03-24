@@ -33,6 +33,7 @@
 .home {
   background: url(../image/background-img.png) no-repeat center center;
   background-size: cover;
+  height: 900px;
 }
 
 .header { 
@@ -231,7 +232,7 @@ footer div{
 /*Main*/
 .blog-main { 
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   margin-top: 47px;
   margin-bottom: 50px;
 }

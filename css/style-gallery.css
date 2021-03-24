@@ -41,7 +41,7 @@
 
 .gallery-section-block-first { 
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   flex-wrap: wrap;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .gallery-section-block-first__img-second { 
-  margin-left: -200px;
+  margin-left: -300px;
   width: 25%;
 }
 
